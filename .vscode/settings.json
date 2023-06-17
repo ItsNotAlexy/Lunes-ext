@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.js": "javascript",
+        "*.py": "python",
+        "*.ts": "typescript",
+        "*.tsx": "typescriptreact",
+        "*.vue": "vue",
+        "*.yml": "yaml"
+    }
+}

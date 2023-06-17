@@ -1,7 +1,7 @@
 {
-  "name": "lunes",
+  "name": "lunes-ext",
   "publisher": "Lunes Team",
-  "displayName": "lunes-ext",
+  "displayName": "lunes-ext - Lunes Host Extension",
   "description": "A extension for lunes host",
   "version": "0.0.1",
   "engines": {

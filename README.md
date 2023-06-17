@@ -16,7 +16,7 @@ To use the extension, you must first open the command palette and search for the
 If you want to contribute to the project, you can do so by forking the repository and making a pull request.
 
 ## Contributers
-<img src="https://contributors-img.web.app/image?repo=placeholder">
+<img src="https://contributors-img.web.app/image?repo=ItsNotAlexy/Lunes-ext">
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

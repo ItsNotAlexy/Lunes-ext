@@ -17,4 +17,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fixed a bug where the extension would not connect to the server
 - Fixed a bug where the extension would not save the configurations
+- Fixed a error on the publisher configurations
 

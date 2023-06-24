@@ -12,8 +12,9 @@ To use the extension, you must first open the command palette and search for the
 - Download files from the server and open them in vscode ✔
 - Create new files and folders ✔
 - SFTP Support ✔
-- SSH Support ✔
 - Encrypted Connection ✔
+- User Authentication ✔
+- And more...
 
 ## Contiriubting
 If you want to contribute to the project, you can do so by forking the repository and making a pull request.

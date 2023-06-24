@@ -4,11 +4,17 @@ Using Lunes-Ext will allow you to edit files in vscode and save them directly to
 
 ### Bug Fixes and Features
 
-- [ ] Add an ability to switch from one server to another.
+- [ ] Add more error handling.
+- [ ] Add some more emojies to the extension for better user experience.
+- [ ] Add Remote features 
+    - [ ] Shutdown the server.
+    - [ ] Restart the server.
+    - [ ] Run commands in the terminal.
 
 
 ### In Progress
-- [ ] Add an ability to switch from one server to another.
+- [ ] Add some more emojies to the extension for better user experience.
+- [ ] Add more error handling.
 
 
 ### Completed Column ✓
@@ -19,3 +25,7 @@ Using Lunes-Ext will allow you to edit files in vscode and save them directly to
 - [x] Add an ability to download files from the server into vscode.
 - [x] Add an ability to stop listening for file changes.
 - [x] Fixing the double quote bug when sending a file contents to the server
+- [x] Add autosave feature.
+- [x] Add user authentication.
+- [x] Add ability to switch from one server to another.
+- [x] Add ability to download all files from the server.

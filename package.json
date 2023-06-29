@@ -1,6 +1,14 @@
 {
   "name": "lunes-ext",
-  "publisher": "Lunes Team",
+  "publisher": "LunesHost",
+  "license": "MIT",
+  "author": {
+    "name": "AlexyyDev"
+  },
+  "maintainers": [
+    "AlexyyDev",
+    "NoobMaster69"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ItsNotAlexy/Lunes-ext"
